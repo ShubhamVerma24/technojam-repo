@@ -128,7 +128,6 @@ public class Calculator {
             default:
             <br>
                 System.out.println("Invalid operator!");
-              
                 <br>
                 return;
                 <br>
