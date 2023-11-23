@@ -200,7 +200,6 @@ public class arrayReverse {
            <br>
     } 
     <br>
-  
     public static void main(String[] args) 
     { 
     <br>
@@ -211,6 +210,7 @@ public class arrayReverse {
     } 
     <br>
 }
+<br>
 <br>
 <br>
 <br>
